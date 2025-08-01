@@ -56,14 +56,6 @@ To install Zenchat on your device, follow these steps:
 4. Insert your key in /lib/pages/chat/key.dart.
 5. Build your APK using `flutter build apk`.
 
-## Contributors
-- https://github.com/mansi05041
-- https://github.com/swapnilgarg7
-- https://github.com/CodeGeek04
-- https://github.com/Sart-Hack
-
-
-
 ## License
 This project is licensed under the MIT License.
 
